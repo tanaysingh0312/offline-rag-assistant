@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+chromadb
+langchain
+langchain-openai
+langchain-community
+pymupdf
+python-docx
+sentence-transformers
+openai
+python-dotenv

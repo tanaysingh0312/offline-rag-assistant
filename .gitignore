@@ -1,0 +1,24 @@
+# General
+.DS_Store
+.env
+.env.local
+
+# Python / Backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+backend/chroma_db/
+backend/uploads/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.npm/
+frontend/coverage/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
